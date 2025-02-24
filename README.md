@@ -35,7 +35,12 @@ An advanced calculator built with **Python and Tkinter**, featuring basic arithm
 
 ## 📸 Screenshots
 
-*(Add screenshots here to showcase the UI.)*  
+![image](https://github.com/user-attachments/assets/c2baf424-786d-4426-bf82-8c088eb3b23f)
+![image](https://github.com/user-attachments/assets/3cc4ab6a-facf-43ff-9838-b7693253fc51)
+![image](https://github.com/user-attachments/assets/829a5056-da04-4017-a751-86e3ed193fa2)
+
+
+  
 
 ## 🛠️ Technologies Used
 
